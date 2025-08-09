@@ -1,1 +1,1 @@
-"# Beginner-LCMS-metabolomics-pipeline-in-Python" 
+-   To learn about the main steps in the pre-processing of untargeted metabolomics LC-MS data.
